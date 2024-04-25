@@ -9,8 +9,8 @@ This repository demonstrates the implementation of Neural Style Transfer using b
 * 5- Example Notebooks: Explore Jupyter Notebooks showcasing step-by-step implementations of Neural Style Transfer with TensorFlow and PyTorch on sample images.
 * 6- Customization: Learn how to customize the style transfer process by adjusting parameters such as content weight, style weight, and learning rate.
 * 7- Documentation: Find detailed documentation on the neural style transfer algorithm, implementation details, and experimental results.
-  -----------------------------------------------------------------------------------------------------------------------------------------
-  ![download](https://github.com/MarwanAhmed20/Neural-Style-Transfer-with-TensorFlow-and-PyTorch/assets/47067493/312b6838-6c09-4a8f-9eb0-81f079c140fa)
+* -----------------------------------------------------------------------------------------------------------------------------------------  
+![download](https://github.com/MarwanAhmed20/Neural-Style-Transfer-with-TensorFlow-and-PyTorch/assets/47067493/312b6838-6c09-4a8f-9eb0-81f079c140fa)
 ## using TF-Hub:
 * ![download (1)](https://github.com/MarwanAhmed20/Neural-Style-Transfer-with-TensorFlow-and-PyTorch/assets/47067493/8a2ee22f-3272-4b55-90da-1b01c9fc4ef6)
 ## using TensorfLow with 1000 train step:
